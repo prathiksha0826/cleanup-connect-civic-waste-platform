@@ -1,0 +1,1 @@
+ALTER TABLE `reports` ADD `carbon_footprint_kg` real;
